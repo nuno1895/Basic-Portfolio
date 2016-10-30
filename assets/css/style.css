@@ -68,6 +68,8 @@ p:hover {
 	background: #ffffff;
 	padding: 50px 50px 20px 50px;
 	border: 1px solid #cccccc;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 #navbar a:hover {
@@ -196,7 +198,7 @@ CSS for Sticky Footer
 
 #stickyfooter {
 	clear:both;
-	padding: 20px;
+	padding: 50px;
 	background: #606060;
 	color: white;
 	text-align: center;
