@@ -180,6 +180,7 @@ CSS for Profile Page
 #portpics {
 	float: left;
 	position: relative;
+	padding-right: 0;
 }
 
 #portpics p {
@@ -192,9 +193,22 @@ CSS for Profile Page
 	padding: 10px;
 }
 
+#portpics img {
+	width: 255px;
+}
+
 #pic1, #pic2 {
 
 	float: left;
+}
+
+#pic1{
+	padding-left: 0;
+	padding-right: 60px;
+}
+
+#pic2 {
+	padding-right: 0;
 }
 
 /*
